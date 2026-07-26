@@ -1,3 +1,5 @@
+Live URL: https://whiteboard-scanner-f4kha2jakqpjczwl36sny8.streamlit.app/
+
 # 🎓 Whiteboard to Interactive Study Guide
 
 An AI-powered tool that turns a photo of a messy classroom whiteboard — Bangla, English, or mixed — into a clean, structured, interactive study guide, powered by **Gemma 4 Vision** with native function calling.
